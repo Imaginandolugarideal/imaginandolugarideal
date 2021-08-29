@@ -10,6 +10,7 @@ blurb:
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
 
+{{< youtube w7Ft2ymGmfc >}}
     
 intro:
   heading: What we offer
@@ -33,6 +34,4 @@ values:
     We want to turn this around and return the coffee trade to the drink’s
     exhilarating, empowering and unifying nature.
 ---
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/283065246&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/miniaturetigers" title="Miniature Tigers" target="_blank" style="color: #cccccc; text-decoration: none;">Miniature Tigers</a> · <a href="https://soundcloud.com/miniaturetigers/crying-in-the-sunshine-2" title="Crying In The Sunshine" target="_blank" style="color: #cccccc; text-decoration: none;">Crying In The Sunshine</a></div>
 
-{{< youtube w7Ft2ymGmfc >}}
